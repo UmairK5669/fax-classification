@@ -1,0 +1,8 @@
+Patient Name: Emily Davis
+Date of Birth: 06/18/1989
+Requested Service: Insurance Pre-Approval for Endoscopy
+Authorization Request ID: PA-786543
+Decision: Approved
+Reason for Request: Ongoing gastrointestinal symptoms, unexplained weight loss.
+Requested Action: Confirmation of pre-approval required before scheduling procedure.
+Attachments: Referral from primary physician, insurance approval letter

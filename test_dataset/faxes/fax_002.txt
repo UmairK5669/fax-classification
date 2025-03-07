@@ -1,0 +1,11 @@
+Patient Name: Jane Doe
+Authorization Request ID: PA-983245
+Insurance Provider: Blue Cross Insurance
+Requested Service: MRI Scan - Lumbar Spine
+Referring Physician: Dr. Robert Martinez
+Decision: Approved
+Approval Code: AUTH-45789XQ
+Validity Period: Valid until 06/30/2025
+Reason for Request: Chronic lower back pain persisting for over six months with no response to physical therapy. MRI required to assess possible disc herniation.
+Additional Notes: Patient must present this authorization code during the visit. Any additional imaging beyond the approved scan will require separate approval.
+Attachments: Referral letter, insurance verification form

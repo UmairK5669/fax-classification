@@ -1,0 +1,3 @@
+From: fax@example.com
+Subject: Follow-up on previous discussion
+Attachment: fax_007.txt

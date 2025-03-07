@@ -1,0 +1,3 @@
+From: suspicious@fakefax.com
+Subject: Urgent: Your account has been compromised!
+Attachment: fax_010.txt

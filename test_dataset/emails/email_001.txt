@@ -1,0 +1,3 @@
+From: fax@example.com
+Subject: Important document attached
+Attachment: fax_001.txt

@@ -1,0 +1,3 @@
+From: fax@example.com
+Subject: New submission for processing
+Attachment: fax_006.txt

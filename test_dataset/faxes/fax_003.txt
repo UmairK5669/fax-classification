@@ -1,0 +1,12 @@
+Patient Name: Mark Johnson
+Date of Birth: 05/12/1975
+Primary Care Physician: Dr. Laura Williams
+Requested Records: Full medical history for transfer to new healthcare provider
+Medical History:
+- Hypertension, diagnosed in 2012, managed with Amlodipine 5mg daily
+- Type 2 Diabetes, diagnosed in 2015, managed with Metformin 1000mg daily
+- Recent surgery: Right knee replacement (August 2024), physical therapy ongoing
+Recent Lab Results: HbA1c: 6.8%, Cholesterol: LDL 140, HDL 50
+Physician Notes: Patient requires a full transfer of medical records to new provider due to relocation. Requested documents include past lab results, imaging reports, specialist consults, and medication history.
+Requested Action: Please forward all records electronically to the new provider listed in the attached request form.
+Attachments: Medical release authorization, previous imaging reports

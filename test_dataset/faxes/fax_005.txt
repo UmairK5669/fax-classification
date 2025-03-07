@@ -1,0 +1,9 @@
+Patient Name: Alex Green
+Date of Birth: 07/08/1982
+Authorization Request ID: PA-123678
+Insurance Provider: Aetna
+Requested Service: Physical Therapy - 12 Sessions
+Decision: Pending Review
+Reason for Request: Post-operative recovery following knee ligament surgery.
+Additional Notes: Patient has been recommended therapy by the orthopedic specialist for full recovery. Requesting insurance approval for 12 therapy sessions over six weeks.
+Attachments: Surgical discharge summary, physician's recommendation letter

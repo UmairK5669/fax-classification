@@ -1,0 +1,8 @@
+Patient Name: Sarah Thompson
+Date of Birth: 09/22/1990
+Referring Physician: Dr. Brian Carter
+Requested Service: Specialist Consultation - Neurology
+Diagnosis: Persistent migraines, unresponsive to standard treatments
+Additional Notes: Patient has undergone previous imaging, results inconclusive. Neurology consultation requested to explore alternative treatment options.
+Requested Action: Please confirm specialist availability and schedule consultation.
+Attachments: Previous MRI scan results, prescription history

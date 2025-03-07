@@ -1,0 +1,9 @@
+Patient Name: Lisa Brown
+Date of Birth: 11/03/1975
+Requested Records: Complete health records for legal case
+Medical History:
+- Chronic back pain, multiple treatment attempts
+- History of opioid prescription use for pain management
+- Psychological evaluation performed in 2022
+Requested Action: All medical documents related to patient care must be compiled and sent for legal proceedings.
+Attachments: Prior treatment history, physician evaluations, pain management plan

@@ -1,0 +1,8 @@
+Patient Name: Thomas White
+Referring Physician: Dr. Jennifer Adams
+Referred to: Oncology Department
+Diagnosis: Suspicious lung nodule found in recent imaging.
+Symptoms: Persistent cough, weight loss, fatigue
+Medical History: Former smoker, previous history of bronchitis.
+Requested Action: Urgent oncology referral for biopsy and further assessment.
+Attachments: Chest X-ray results, physician’s notes

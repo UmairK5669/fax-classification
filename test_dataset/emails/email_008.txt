@@ -1,0 +1,3 @@
+From: fax@example.com
+Subject: Updated patient details enclosed
+Attachment: fax_008.txt

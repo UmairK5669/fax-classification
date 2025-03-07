@@ -1,0 +1,10 @@
+Patient Name: John Doe
+Date of Birth: 02/15/1985
+Referring Physician: Dr. Emily Smith
+Referred to: XYZ Hospital, Cardiology Department
+Diagnosis: Severe Hypertension, possible cardiac complications
+Symptoms: Persistent high blood pressure, dizziness, shortness of breath
+Medical History: Hypertension diagnosed 5 years ago, on Lisinopril 10mg daily
+Additional Notes: Patient requires immediate consultation for risk assessment
+Requested Action: Please schedule an appointment for evaluation within the next 7 days
+Attachments: Previous ECG report, blood test results
